@@ -1,0 +1,2 @@
+rootProject.name = "LeadingMarginSpan"
+include ':app'
